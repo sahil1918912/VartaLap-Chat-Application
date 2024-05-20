@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VartaLap</string>
+    <string name="ahmedabad">Ahmedabad</string>
+    <string name="login">Login</string>
+    <string name="enter_your_id">Enter Your ID</string>
+    <string name="sahil_chauhan">Sahil Chauhan</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="name">Name</string>
+</resources>
